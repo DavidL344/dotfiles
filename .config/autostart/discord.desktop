@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=flatpak run com.discordapp.Discord --start-minimized
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_GB]=Discord
+Name=Discord
+Comment[en_GB]=Discord Flatpak Package
+Comment=Discord Flatpak Package

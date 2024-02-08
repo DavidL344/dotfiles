@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=bash ~/.local/bin/startup/touchpad-sensitivity.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_GB]=Touchpad XINPUT
+Name=Touchpad XINPUT
+Comment[en_GB]=Tweak the touchpad sensitivity
+Comment=Tweak the touchpad sensitivity
